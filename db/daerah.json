@@ -56,7 +56,6 @@
     "kab-empat-lawang",
     "kab-garut",
     "kab-gayo-lues",
-    "kab-gianyar",
     "kab-gresik",
     "kab-grobogan",
     "kab-gunungkidul",
@@ -303,6 +302,7 @@
     "kab-belu",
     "kab-berau",
     "kab-bima",
+    "kab-boalemo",
     "kab-bolaang-mongondow",
     "kab-bolaang-mongondow-selatan",
     "kab-bolaang-mongondow-timur",
@@ -418,6 +418,7 @@
     "kab-wakatobi",
     "kab-timor-tengah-selatan",
     "kab-timor-tengah-utara",
+    "kota-ambon",
     "kota-balikpapan",
     "kota-banjarbaru",
     "kota-banjarmasin",
@@ -441,6 +442,8 @@
     "kota-samarinda",
     "kota-tarakan",
     "kota-tomohon",
+    "kota-tidore-kepulauan",
+    "kota-ternate",
     "kab-banyuwangi"
   ],
   "wit": [
@@ -503,12 +506,11 @@
     "kab-yahukimo",
     "kab-yalimo",
     "kab-yapen-waropen",
-    "kota-ambon",
     "kota-jayapura",
     "kota-sofifi",
     "kota-sorong",
+    "kota-tual",
     "kota-ternate",
-    "kota-tidore-kepulauan",
-    "kota-tual"
+    "kota-tidore-kepulauan"
   ]
 }
