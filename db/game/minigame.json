@@ -1,5 +1,8 @@
 { 
-  "ttc": "https://c.termai.cc/t132/J9WARgd.html",
-  "ulartangga": "https://c.termai.cc/t174/oRPZ.html",
-  "dash": "https://c.termai.cc/t125/Obd.html"
+  "ttc": { "url": "https://c.termai.cc/t132/J9WARgd.html" },
+  "ulartangga": { "url": "https://c.termai.cc/t174/oRPZ.html" },
+  "dash": {
+    "url": "https://c.termai.cc/t125/Obd.html",
+    "source": "Aduh lupa, buat issues aja ingfokan disitu"
+  }
 }
